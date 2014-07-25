@@ -8,5 +8,9 @@ autopublish
 insecure
 iron-router
 bootstrap-3
+<<<<<<< HEAD
 accounts-ui
 accounts-password
+=======
+googlemaps
+>>>>>>> 2f7c2748d283fff7de346cd1ce723463aabd8036
